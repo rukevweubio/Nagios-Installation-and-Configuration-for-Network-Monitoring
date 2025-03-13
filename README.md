@@ -73,3 +73,9 @@ define service {
 ### Conclusion
 Nagios Core was successfully deployed to monitor local and remote systems. The system now provides real-time alerts, 
 reducing downtime risks. Future enhancements could include monitoring additional services (e.g., databases) and integrating Grafana for visualization.
+## nagios Dashboard
+![nagio dashboard](https://github.com/rukevweubio/Nagios-Installation-and-Configuration-for-Network-Monitoring/blob/main/Screenshot%20(472).png)
+
+![nagios dashboard](https://github.com/rukevweubio/Nagios-Installation-and-Configuration-for-Network-Monitoring/blob/main/Screenshot%20(471).png)
+
+![nagios dashboard](https://github.com/rukevweubio/Nagios-Installation-and-Configuration-for-Network-Monitoring/blob/main/Screenshot%20(465).png)
