@@ -76,6 +76,8 @@ reducing downtime risks. Future enhancements could include monitoring additional
 ## nagios Dashboard
 ![nagio dashboard](https://github.com/rukevweubio/Nagios-Installation-and-Configuration-for-Network-Monitoring/blob/main/Screenshot%20(472).png)
 
+![nagios dashboard](https://github.com/rukevweubio/Nagios-Installation-and-Configuration-for-Network-Monitoring/blob/main/Screenshot%20(466).png)
+
 ![nagios dashboard](https://github.com/rukevweubio/Nagios-Installation-and-Configuration-for-Network-Monitoring/blob/main/Screenshot%20(471).png)
 
 ![nagios dashboard](https://github.com/rukevweubio/Nagios-Installation-and-Configuration-for-Network-Monitoring/blob/main/Screenshot%20(465).png)
